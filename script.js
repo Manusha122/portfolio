@@ -17,7 +17,7 @@ window.addEventListener('scroll', () => {
 
 // Initialize Typed.js for hero section
 const options = {
-    strings: ['Software Engineer', 'Full-Stack Developer', 'Mobile App Developer', 'UI/UX Enthusiast'],
+    strings: ['Software Engineer', 'Full-Stack Developer', 'Web Developer', 'Mobile App Developer', 'UI/UX Enthusiast'],
     typeSpeed: 80,
     backSpeed: 50,
     backDelay: 2000,
